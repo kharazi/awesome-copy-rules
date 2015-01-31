@@ -19,3 +19,6 @@ If you have 10 days for copying a piece of code , devote 9 days of it for search
 
 ## Rule 5:
 Do not be disappointed. There is always something to copy.
+
+## Rule 6:
+Before copying a code , first read all the comments on it (if there was !).
