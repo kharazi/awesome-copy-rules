@@ -24,4 +24,4 @@ Do not be disappointed. There is always something to copy.
 Before copying a code , first read all the comments on it (if there was !).
 
 ## Rule 7:
-Explore new tools! for example, choose a good [clipboard manager](http://en.wikipedia.org/wiki/Clipboard_manager)
+Explore new tools! `Ctrl+C` and `Ctrl+V`  are not the only tools, for example choose a good [clipboard manager](http://en.wikipedia.org/wiki/Clipboard_manager)
