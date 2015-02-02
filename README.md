@@ -22,3 +22,6 @@ Do not be disappointed. There is always something to copy.
 
 ## Rule 6:
 Before copying a code , first read all the comments on it (if there was !).
+
+## Rule 7:
+Explore new tools! for example, find a good [clipboard manager](http://en.wikipedia.org/wiki/Clipboard_manager)
