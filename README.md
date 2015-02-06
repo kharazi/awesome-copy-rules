@@ -28,3 +28,6 @@ Explore new tools! `Ctrl+C` and `Ctrl+V`  are not the only tools, for example ch
 
 ## Rule 8:
 If you find more than a piece of code use which has lower performance! Because when you want to update your software you could use the one with higher performance!
+
+## Rule 9:
+Don't repeat yourself([DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)), Copy yourself!
