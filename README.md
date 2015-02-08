@@ -6,28 +6,28 @@ Copy engineering rules for programmers:D
 If you are copying a piece of code, copy whole of it!
 
 ## Rule 1:
-Do not forget where you copy code!!! Always you will need it again!
+Remember where you have copied a code from, you're going to need it!
 
 ## Rule 2:
-Improve copy engineering socity with copying(!) a rule.
+Improve copy engineering society with copying(!) a rule.
 
 ## Rule 3:
 While copying, do it right. your copy may be copied sometimes later.
 
 ## Rule 4:
-If you have 10 days for copying a piece of code , devote 9 days of it for searching.
+If you have 10 days for copying a piece of code, devote 9 days of it to searching.
 
 ## Rule 5:
 Do not be disappointed. There is always something to copy.
 
 ## Rule 6:
-Before copying a code , first read all the comments on it (if there was !).
+Before copying a code, first read all the comments in it (if there was any!).
 
 ## Rule 7:
 Explore new tools! `Ctrl+C` and `Ctrl+V`  are not the only tools, for example choose a good [clipboard manager](http://en.wikipedia.org/wiki/Clipboard_manager)
 
 ## Rule 8:
-If you find more than a piece of code use which has lower performance! Because when you want to update your software you could use the one with higher performance!
+If you happen to find more than one piece of code, use whichever has the lower performance! Because when you want to update your software you could use the one with the higher performance!
 
 ## Rule 9:
 Don't repeat yourself([DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)), Copy yourself!
