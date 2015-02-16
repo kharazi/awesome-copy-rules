@@ -31,3 +31,6 @@ If you happen to find more than one piece of code, use whichever has the lower p
 
 ## Rule 9:
 Don't repeat yourself([DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself)), Copy yourself!
+
+## Rule 10:
+If you can't analyse or optimize it, copy it! ([distorted source](http://goo.gl/GdHlzU))
