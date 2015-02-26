@@ -34,3 +34,6 @@ Don't repeat yourself([DRY](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 
 ## Rule 10:
 If you can't analyse or optimize it, copy it! ([distorted source](http://goo.gl/GdHlzU))
+
+## Rule 11:
+Always trust copy! When you copy something working and its not work after copying, do not blame copy, blame yourself because of incomplete copy! 
